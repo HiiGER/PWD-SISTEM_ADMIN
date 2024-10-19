@@ -41,7 +41,8 @@ Pengguna umum memiliki akses ke fitur berikut:
 
 ## Dokumentasi
 
-Detail lebih lanjut mengenai dokumentasi aplikasi beserta screenshot dapat ditemukan di folder `documentation`.
+Detail lebih lanjut mengenai dokumentasi aplikasi beserta screenshot dapat ditemukan di folder `documentation` pada link berikut.
+'https://drive.google.com/drive/folders/17nI1sgdLTHChMJt1kPUTCZYDZ9t29cED?usp=sharing'
 
 ---
 
