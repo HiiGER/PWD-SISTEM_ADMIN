@@ -1,5 +1,8 @@
 # Sistem Pendaftaran Seminar (SeminarKuApp)
 
+##Angger tirta tetalen mukti
+##2200018135
+##Pemrograman Web Dinamis Kelas C
 Sistem ini adalah aplikasi sederhana berbasis web untuk manajemen peserta seminar. Sistem mendukung fitur admin untuk manajemen user, seminar, serta mengelola peserta dalam seminar, dan juga fitur user untuk registrasi serta melihat seminar yang diikuti.
 
 ## Instalasi
